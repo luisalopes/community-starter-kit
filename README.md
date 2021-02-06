@@ -1,10 +1,11 @@
-# welcome bot: A Probot App
+# Welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+I still don't know what it will do, but I hope it does something nice!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+For now it:
+- hates me
 
 ## Getting started
 
