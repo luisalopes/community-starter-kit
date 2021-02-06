@@ -1,10 +1,14 @@
-# welcome bot: A Probot App
+# Welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is not a placeholder, I swear, I'm just tired and will write more tomorrow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Features, so far, have been:
+* stressing me out
+* reminding me of Ava Max
+* making me feel confused
+* feel lost
 
 ## Getting started
 
