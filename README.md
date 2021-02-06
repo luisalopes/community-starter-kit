@@ -1,10 +1,15 @@
-# welcome bot: A Probot App
+# Welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Okay. I don't know why it didn't work, but for now, this is the sole description of this project:
+It has no description. It has only the purpose of understanding some details about creating and maintaining a repository on GitHub because I'm a complete newbie.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It's a cool repository, though.
+You're gonna be able to:
+* see my weird sense of humor
+* understand how much of a newbie I am
+* give me some much needed tips, if you want
 
 ## Getting started
 
